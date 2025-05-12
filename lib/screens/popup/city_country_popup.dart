@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../services/city_country_selector.dart';
+import '../city_country_selector.dart';
 import '../../strings.dart';
 
 class CityCountryPopup extends StatelessWidget {

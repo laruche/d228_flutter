@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:country_flags/country_flags.dart';
-import 'city_country_service.dart';
+import '../services/city_country_service.dart';
 import '../strings.dart';
 
 class CityCountrySelector extends StatefulWidget {
