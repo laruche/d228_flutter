@@ -1,6 +1,6 @@
-# flutter_application_1
+# D228 Application Flutter
 
-A new Flutter project.
+A flutter projet to show D228 temperatures 
 
 ## Getting Started
 
